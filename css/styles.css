@@ -1,3 +1,5 @@
+:root {
+}
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -28,7 +30,6 @@ body {
 }
 /* навигация */
 .menu-link {
-
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -45,7 +46,6 @@ body {
 }
 
 .address-link {
-
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -62,7 +62,6 @@ body {
   background-color: #2e2f42;
 }
 .hero-text {
-
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -72,7 +71,7 @@ body {
 }
 /* кнопка главная */
 .btn-hero {
-
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -87,7 +86,6 @@ body {
 }
 /* заголовки */
 .title {
-
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -100,7 +98,6 @@ body {
 /* секция стратегия */
 
 .caption {
-
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -109,7 +106,6 @@ body {
 }
 /* подзаголовок */
 .subtitle {
-
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -134,7 +130,8 @@ body {
 }
 
 /* кнопки фильра */
-.button {
+.buttons {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
