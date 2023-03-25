@@ -116,6 +116,9 @@ body {
 .section {
   background-color: #f4f4fd;
 }
+.list-item{
+  background-color: #ffffff;
+}
 .desc {
   font-style: normal;
   font-weight: 400;
@@ -141,8 +144,8 @@ body {
   background: #f4f4fd;
 }
 /* действие */
-.button:hover,
-.button:focus {
+.buttons:hover,
+.buttons:focus {
   color: #ffffff;
   background: #404bbf;
 }
